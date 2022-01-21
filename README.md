@@ -5,7 +5,7 @@ This repository contains the materials, source codes, packet tracer files, wires
 ## Lab Experiments
 ### Practices
 
-- Client-Server using VMs
+- [Client-Server using VMs](Client-Server.md)
 
 - SDN Topology 
   - [RYU SDN L2 Switch](SDN-L2.md)
@@ -17,7 +17,7 @@ This repository contains the materials, source codes, packet tracer files, wires
 
 - [Throughput Analysis](Throughput-Analysis.md)
 
-- [RYU SDN Framework Understanding Documentation](RYU_SDN_Understanding_Document.pdf)
+- [RYU SDN Framework Understanding Documentation](Docs/RYU_SDN_Understanding_Document.pdf)
 
 - RYU SDN Exercises 
   - [Load Balancer](Load-Balancer.md)
