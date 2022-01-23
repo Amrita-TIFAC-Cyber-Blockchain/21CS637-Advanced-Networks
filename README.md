@@ -1,4 +1,5 @@
-# 21CS637 - Advanced Networks
+# 21CS637 - Advanced Networks ![](https://img.shields.io/badge/madeby-Ramaguru-blue.svg) ![](https://img.shields.io/badge/Ph.D%20Coursework-Completed-brightgreen)
+
 
 This repository contains the materials, source codes, packet tracer files, wireshark captures which were explored and experimented for "**21CS637 - Advanced Networks**" Course as part of my Ph.D. Coursework (Oct, 2021 - Jan, 2022). 
 
@@ -25,7 +26,7 @@ This repository contains the materials, source codes, packet tracer files, wires
 - [RYU SDN Framework Understanding Documentation](Docs/RYU_SDN_Understanding_Document.pdf)
 
 - RYU SDN 
-  - [Load Balancer](Load-Balancer.md)
+  - [Multipath Load Balancer](Load-Balancer.md)
   - [Firewall to Block UDP Messages](SDN-Firewall.md)
 
 - [DiffServ QoS using Packet Tracer](DiffServ-QoS.md)
@@ -39,11 +40,11 @@ This repository contains the materials, source codes, packet tracer files, wires
 ## Acknowledgements
 - Dr. Anantha Narayanan V. (VAN), Asst. Professor, Dept. of CSE, ASE, Coimbatore
 - Ms. Nalinadevi K. (KND), Asst. Professor, Dept. of CSE, ASE, Coimbatore
-- Mr. R. Venkateswaran, Chief Information Officer, Persistent Systems
+- Mr. R. Venkateswaran, Chief Information Officer, Persistent Systems (ACM Expert Teacher)
 
 ## References
-- [Course Website](https://sites.google.com/view/21cs637/)
-- [Mininet](http://mininet.org/walkthrough/)
+- [Advanced Networks Course Website](https://sites.google.com/view/21cs637/)
+- [Mininet Documentation](http://mininet.org/walkthrough/)
 - [RYU SDN Framework](https://osrg.github.io/ryu-book/en/html/)
 - [Cisco DiffServ for QoS](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos_dfsrv/configuration/15-mt/qos-dfsrv-15-mt-book/qos-dfsrv.html)
 - [Cisco IP SLA Configuration](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipsla/configuration/15-mt/sla-15-mt-book/sla_icmp_echo.html)
