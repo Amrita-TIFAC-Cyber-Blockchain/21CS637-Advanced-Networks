@@ -95,40 +95,40 @@ class SimpleSwitch12(app_manager.RyuApp):
             actions=actions, data=data)
         datapath.send_msg(out)
 ```
+
+### Demo
    
-   ### Demo
-   
-   #### Mininet Setup
+#### Mininet Setup
    
    <p align="center">
       <img src="Assets/MAC_Learning_Mininet.png" alt="Mininet Setup" width="800" />
    </p>
    
-   #### Starting the Switch
+#### Starting the Switch
    
    <p align="center">
       <img src="Assets/MAC_Learning_Switch.png" alt="Start Switch" width="800" />
    </p>
    
-   #### Switch State
+#### Switch State
    
    <p align="center">
       <img src="Assets/MAC_Learning_Switch_State.png" alt="Initial Switch State" width="800" />
    </p>
    
-   #### Pinging between two nodes (h1 to h2)
+#### Pinging between two nodes (h1 to h2)
    
    <p align="center">
       <img src="Assets/MAC_Learning_Mininet_Ping.png" alt="Ping in Mininet" width="800" />
    </p>
    
-   #### Switch Log
+#### Switch Log
    
    <p align="center">
       <img src="Assets/MAC_Learning_Switch_ping.png" alt="Switch Ping" width="800" />
    </p>
    
-   #### Switch State after Ping
+#### Switch State after Ping
    
    <p align="center">
       <img src="Assets/MAC_Learning_Switch_State_ping.png" alt="Switch State after Ping" width="800" />
