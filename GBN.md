@@ -1,10 +1,10 @@
-# Go-Back-N
+# Go-Back-N Algorithm 
 
-## Basic
+## Basic Version
 
-## Modified 
+## Modified Version
 
-### Server
+### Server (Code)
 
 ```
 # Go-Back-N Modified Demo
@@ -164,7 +164,8 @@ while loopCounter<=1:
                 print("Response: ACK LOST! Sliding Window in " + (str(ackCounter+1)) +" to "+ str(slideWindow) + ". ReSend PKT.")
                 time.sleep(sleepTimer)
 ```
-### Client
+
+### Client (Code)
 
 ```
 # Go-Back-N Modified Demo
@@ -271,17 +272,17 @@ while True:
 #### Server Init
 
 <p align="center">
-  <img src="Assets/GBN_Mod_Server.png" alt="Server" width="600"></img>
+  <img src="Assets/GBN_Mod_Server.png" alt="Server" width="600"/>
 </p>
 
 #### Client Init
 
 <p align="center">
-  <img src="Assets/GBN_Mod_Client.png" alt="Client" width="600"></img>
+  <img src="Assets/GBN_Mod_Client.png" alt="Client" width="600"/>
 </p>
 
 #### Data Transmission and Reception
 
 <p align="center">
-  <img src="Assets/GBN_Mod_Demo.gif" alt="Demo" width="1000"></img>
+  <img src="Assets/GBN_Mod_Demo.gif" alt="Demo" width="1000"/>
 </p>
