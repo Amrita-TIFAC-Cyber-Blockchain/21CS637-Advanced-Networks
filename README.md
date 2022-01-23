@@ -12,11 +12,9 @@ This repository contains the materials, source codes, packet tracer files, wires
   - Custom Topology with 10% loss and 10 ms delay rate
   - Data Center Topology with four racks, each with four hosts and a single ToR switch
   - Configurable Dynamic Number of Hosts per Rack
-  - Two ToR in Ring Topology to increase Availability
 
 - RYU SDN 
   - [RYU SDN L2 Switch - Self Learning](SDN-L2.md)
-  - [RYU SDN L3 Switch](SDN-L3.md)
 
 ### Assignments for Evaluation
 
@@ -28,11 +26,11 @@ This repository contains the materials, source codes, packet tracer files, wires
 
 - RYU SDN 
   - [Load Balancer](Load-Balancer.md)
-  - [Firewall](SDN-Firewall.md)
+  - [Firewall to Block UDP Messages](SDN-Firewall.md)
 
 - [DiffServ QoS using Packet Tracer](DiffServ-QoS.md)
 
-- [SLA in Router](SLA-Router.md)
+- [SLA in Router using Packet Tracer](SLA-Router.md)
 
 ## Seminar/Usecase Presentation
 
@@ -48,3 +46,4 @@ This repository contains the materials, source codes, packet tracer files, wires
 - [Mininet](http://mininet.org/walkthrough/)
 - [RYU SDN Framework](https://osrg.github.io/ryu-book/en/html/)
 - [Cisco DiffServ for QoS](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos_dfsrv/configuration/15-mt/qos-dfsrv-15-mt-book/qos-dfsrv.html)
+- [Cisco IP SLA Configuration](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipsla/configuration/15-mt/sla-15-mt-book/sla_icmp_echo.html)
