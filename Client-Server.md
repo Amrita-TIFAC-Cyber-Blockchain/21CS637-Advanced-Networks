@@ -1,19 +1,39 @@
 # Client and Server Socket Programming
 
 ## Windows - Single Machine
-### Calculator
+
+### Remote Calculator
+#### Server
+
 ![](Assets/Server_Calculator_Win.png)
+
+#### Client
 ![](Assets/Client_Calculator_Win.png)
 
-### Quiz
+### Quiz System
+#### Server
+
 ![](Assets/Server_Quiz_Win.png)
+
+#### Client
+
 ![](Assets/Client_Quiz_Win.png)
 
-## Ubuntu - Multiple VMs
-### Calculator
+## Ubuntu - Multiple Virtual Machines (VM)
+
+### Remote Calculator
+#### Server
+
 ![](Assets/Server_Calculator.png)
+
+#### Client
+
 ![](Assets/Client_Calculator.png)
 
-### Quiz
+### Quiz System
+#### Server
 ![](Assets/Server_Quiz.png)
+
+#### Client
+
 ![](Assets/Client_Quiz.png)
