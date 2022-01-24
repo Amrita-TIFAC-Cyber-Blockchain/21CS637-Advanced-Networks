@@ -32,7 +32,7 @@ This repository contains the materials, source codes, packet tracer files, wires
 
 - [DiffServ QoS using Packet Tracer](DiffServ-QoS.md)
 
-- [SLA in Router using Packet Tracer](SLA-Router.md)
+- [SLA in Router using Packet Tracer and GNS3](SLA-Router.md)
 
 ## Seminar/Usecase Presentation
 
