@@ -47,22 +47,28 @@ DSCP value is **101110** (46)
 **Class-map:** a network traffic classification.
 **Policy-map:** a series of actions that will be applied to a set of classified inbound traffic.
 
-### Sample Screenshots
+### Config Set in Router
 
 #### Class Map
 
 <p align="center">
-  <img src="Assets/Class-map-EP-set.png" alt="Class Map" width="500"/>
+  <img src="Assets/Class-map-EP-set.png" alt="Class Map" width="550"/>
 </p>
 
 #### Policy Map
 
 <p align="center">
-  <img src="Assets/policy-map-SETDSCP.png" alt="Policy Map" width="450"/>
+  <img src="Assets/policy-map-SETDSCP.png" alt="Policy Map" width="500"/>
 </p>
 
 ##### Error 
 
 <p align="center">
   <img src="Assets/Error_on_VOIP.png" alt="Error" width="700"/>
+</p>
+
+##### Set Config in Router 
+
+<p align="center">
+  <img src="Assets/QoS_Config.gif" alt="Show Config" width="1400"/>
 </p>
