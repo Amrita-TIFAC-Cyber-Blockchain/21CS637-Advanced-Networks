@@ -48,6 +48,11 @@ curl -X POST -d  '{"nw_src": "10.0.0.3/32", "nw_dst": "10.0.0.2/32", "nw_proto":
 ### Messages blocked by the SDN Controller
 
 <p align="center">
+  <img src="Assets/Firewall_Rule_Test.png" alt="Firewall_Rule_Test" width="800"/>
+</p>
+
+
+<p align="center">
   <img src="Assets/Blocked_by_the_controller.png" alt="Firewall_Rule" width="1800"/>
 </p>
 
