@@ -270,17 +270,17 @@ while True:
 #### Server Init
 
 <p align="center">
-  <img src="/Assets/images/GBN_Mod_Server.png" alt="Server" width="600"/>
+  <img src="../Assets/images/GBN_Mod_Server.png" alt="Server" width="600"/>
 </p>
 
 #### Client Init
 
 <p align="center">
-  <img src="/Assets/images/GBN_Mod_Client.png" alt="Client" width="600"/>
+  <img src="../Assets/images/GBN_Mod_Client.png" alt="Client" width="600"/>
 </p>
 
 #### Data Transmission and Reception
 
 <p align="center">
-  <img src="/Assets/images/GBN_Mod_Demo.gif" alt="Demo" width="1000"/>
+  <img src="../Assets/images/GBN_Mod_Demo.gif" alt="Demo" width="1000"/>
 </p>
