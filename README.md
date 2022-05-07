@@ -39,9 +39,9 @@ This repository contains the materials, source codes, packet tracer files, wires
 [Blockchain for the Internet of Vehicles](B-IoV_SDN_NFV.md)
 
 ## Acknowledgements
-- Dr. Anantha Narayanan V. (VAN), Asst. Professor, Dept. of CSE, ASE, Coimbatore
-- Ms. Nalinadevi K. (KND), Asst. Professor, Dept. of CSE, ASE, Coimbatore
-- Mr. R. Venkateswaran, Chief Information Officer, Persistent Systems (ACM Expert Teacher)
+- **Dr. Anantha Narayanan V.** (VAN), Asst. Professor, Dept. of CSE, ASE, Coimbatore
+- **Ms. Nalinadevi K.** (KND), Asst. Professor, Dept. of CSE, ASE, Coimbatore
+- **Mr. R. Venkateswaran**, Chief Information Officer, Persistent Systems (ACM Expert Teacher)
 
 ## References
 - [Advanced Networks Course Website](https://sites.google.com/view/21cs637/)
@@ -49,4 +49,3 @@ This repository contains the materials, source codes, packet tracer files, wires
 - [RYU SDN Framework](https://osrg.github.io/ryu-book/en/html/)
 - [Cisco DiffServ for QoS](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/qos_dfsrv/configuration/15-mt/qos-dfsrv-15-mt-book/qos-dfsrv.html)
 - [Cisco IP SLA Configuration](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/ipsla/configuration/15-mt/sla-15-mt-book/sla_icmp_echo.html)
-- Ramaguru R., Sindhu M., Sethumadhavan M. (2019) Blockchain for the Internet of Vehicles. In: Singh M., Gupta P., Tyagi V., Flusser J., Ören T., Kashyap R. (eds) Advances in Computing and Data Sciences. ICACDS 2019. Communications in Computer and Information Science, vol 1045. Springer, Singapore. https://doi.org/10.1007/978-981-13-9939-8_37
