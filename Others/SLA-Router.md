@@ -8,13 +8,13 @@ using IPv4 or IPv6. ICMP Echo is useful for troubleshooting network connectivity
 ## Demo Setup in Packet Tracer
 
 <p align="center">
-  <img src="Assets/Setup_SLA.PNG" alt="SLA Setup" width="600"/>  
+  <img src="/Assets/images/Setup_SLA.PNG" alt="SLA Setup" width="600"/>  
 </p>
 
 ### Error
 
 <p align="center">
-  <img src="Assets/SLA_Error_Cisco.PNG" alt="SLA Error" width="600"/>  
+  <img src="/Assets/images/SLA_Error_Cisco.PNG" alt="SLA Error" width="600"/>  
 </p>
 
 ## Demo Setup in GNS3
