@@ -3,13 +3,13 @@
 ## Single Topology
 
 <p align="center">
-  <img src="/Assets/images/SDN_Single_Topology.png" alt="Single" width="800"></img>
+  <img src="../Assets/images/SDN_Single_Topology.png" alt="Single" width="800"></img>
 </p>
 
 ## Linear Topology
 
 <p align="center">
-  <img src="/Assets/images/SDN_Linear_Topology.png" alt="Linear" width="800"></img>
+  <img src="../Assets/images/SDN_Linear_Topology.png" alt="Linear" width="800"></img>
 </p>
 
 ## Link Capability 
@@ -19,7 +19,7 @@ sudo mn --link tc,bw=10,delay=10ms
 ```
 
 <p align="center">
-  <img src="/Assets/images/SDN_Link_Capability.png" alt="Link Capability" width="800"></img>
+  <img src="../Assets/images/SDN_Link_Capability.png" alt="Link Capability" width="800"></img>
 </p>
 
 ## Design 2-Switches and 2-Hosts 
@@ -58,7 +58,7 @@ topos = { 'myNetTopology': ( lambda: assign2S2H() ) }
 ```
 
 <p align="center">
-  <img src="/Assets/images/SDN_2S2H_Link_Test.png" alt="2S2H" width="800"></img>
+  <img src="../Assets/images/SDN_2S2H_Link_Test.png" alt="2S2H" width="800"></img>
 </p>
 
 ## Design Data Center with Single ToR 
@@ -100,7 +100,7 @@ topos = { 'myNetTopology': ( lambda: dataRack() ) }
 ```
 
 <p align="center">
-  <img src="/Assets/images/SDN_DataCenter_Test.png" alt="DataCenter" width="800"></img>
+  <img src="../Assets/images/SDN_DataCenter_Test.png" alt="DataCenter" width="800"></img>
 </p>
 
 
