@@ -101,35 +101,35 @@ class SimpleSwitch12(app_manager.RyuApp):
 #### Mininet Setup
    
    <p align="center">
-      <img src="Assets/MAC_Learning_Mininet.png" alt="Mininet Setup" width="800" />
+      <img src="/Assets/images/MAC_Learning_Mininet.png" alt="Mininet Setup" width="800" />
    </p>
    
 #### Starting the Switch
    
    <p align="center">
-      <img src="Assets/MAC_Learning_Switch.png" alt="Start Switch" width="800" />
+      <img src="/Assets/images/MAC_Learning_Switch.png" alt="Start Switch" width="800" />
    </p>
    
 #### Switch State
    
    <p align="center">
-      <img src="Assets/MAC_Learning_Switch_State.png" alt="Initial Switch State" width="800" />
+      <img src="/Assets/images/MAC_Learning_Switch_State.png" alt="Initial Switch State" width="800" />
    </p>
    
 #### Pinging between two nodes (h1 to h2)
    
    <p align="center">
-      <img src="Assets/MAC_Learning_Mininet_Ping.png" alt="Ping in Mininet" width="800" />
+      <img src="/Assets/images/MAC_Learning_Mininet_Ping.png" alt="Ping in Mininet" width="800" />
    </p>
    
 #### Switch Log
    
    <p align="center">
-      <img src="Assets/MAC_Learning_Switch_ping.png" alt="Switch Ping" width="800" />
+      <img src="/Assets/images/MAC_Learning_Switch_ping.png" alt="Switch Ping" width="800" />
    </p>
    
 #### Switch State after Ping
    
    <p align="center">
-      <img src="Assets/MAC_Learning_Switch_State_ping.png" alt="Switch State after Ping" width="800" />
+      <img src="/Assets/images/MAC_Learning_Switch_State_ping.png" alt="Switch State after Ping" width="800" />
    </p>
