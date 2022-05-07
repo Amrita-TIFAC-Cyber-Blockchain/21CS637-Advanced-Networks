@@ -5,35 +5,35 @@
 ### Remote Calculator
 #### Server
 
-![](Assets/Server_Calculator_Win.png)
+![](/Assets/images/Server_Calculator_Win.png)
 
 #### Client
-![](Assets/Client_Calculator_Win.png)
+![](/Assets/images/Client_Calculator_Win.png)
 
 ### Quiz System
 #### Server
 
-![](Assets/Server_Quiz_Win.png)
+![](/Assets/images/Server_Quiz_Win.png)
 
 #### Client
 
-![](Assets/Client_Quiz_Win.png)
+![](/Assets/images/Client_Quiz_Win.png)
 
 ## Ubuntu - Multiple Virtual Machines (VM)
 
 ### Remote Calculator
 #### Server
 
-![](Assets/Server_Calculator.png)
+![](/Assets/images/Server_Calculator.png)
 
 #### Client
 
-![](Assets/Client_Calculator.png)
+![](/Assets/images/Client_Calculator.png)
 
 ### Quiz System
 #### Server
-![](Assets/Server_Quiz.png)
+![](/Assets/images/Server_Quiz.png)
 
 #### Client
 
-![](Assets/Client_Quiz.png)
+![](/Assets/images/Client_Quiz.png)
