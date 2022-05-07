@@ -15,9 +15,9 @@ DSCP value in the form **xxx000**, where x is either 0 or 1. This is to ensure b
 ### Assured Forwarding PHB
 In AF, network traffic can be divided into the following classes:
 
-- Gold: Traffic is allocated 50% of the available BW.
-- Silver: Traffic is allocated 30% of the available BW.
-- Bronze: Traffic is allocated 20% of the available BW.
+- **Gold:** Traffic is allocated 50% of the available BW.
+- **Silver:** Traffic is allocated 30% of the available BW.
+- **Bronze:** Traffic is allocated 20% of the available BW.
 
 DSCP value, **xyzab0**, where xyz (4 classes) can be 001, 010, 011,  or 100, and ab (3 precedence) represents the dP value.dP is the probability for dropping the packet.
 
@@ -32,7 +32,7 @@ DSCP value is **101110** (46)
 ## Demo Setup
 
 <p align="center">
-  <img src="Assets/QoS_Setup.png" alt="QoS" width="1400"/>  
+  <img src="/Assets/images/QoS_Setup.png" alt="QoS" width="1400"/>  
 </p>
 
 | Traffic Class | Traffic Type | DSCP Value | 
@@ -52,23 +52,23 @@ DSCP value is **101110** (46)
 #### Class Map
 
 <p align="center">
-  <img src="Assets/Class-map-EP-set.png" alt="Class Map" width="550"/>
+  <img src="/Assets/images/Class-map-EP-set.png" alt="Class Map" width="550"/>
 </p>
 
 #### Policy Map
 
 <p align="center">
-  <img src="Assets/policy-map-SETDSCP.png" alt="Policy Map" width="500"/>
+  <img src="/Assets/images/policy-map-SETDSCP.png" alt="Policy Map" width="500"/>
 </p>
 
 ##### Error 
 
 <p align="center">
-  <img src="Assets/Error_on_VOIP.png" alt="Error" width="700"/>
+  <img src="/Assets/images/Error_on_VOIP.png" alt="Error" width="700"/>
 </p>
 
 ##### Set Config in Router 
 
 <p align="center">
-  <img src="Assets/QoS_Config.gif" alt="Show Config" width="1400"/>
+  <img src="/Assets/images/QoS_Config.gif" alt="Show Config" width="1400"/>
 </p>
