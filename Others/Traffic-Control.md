@@ -3,7 +3,7 @@
 Earth to Moon. 
 
 <p align="center">
-  <img src="External/earthtomoon.jpg" alt="scenario" width="200"/>  
+  <img src="/Assets/External/earthtomoon.jpg" alt="scenario" width="200"/>  
 </p>
 
 The time for data to travel from earth to the moon is: 385,000,000 (m) / 300000000 (m/s) = 1.28333 (s). <br/>
@@ -26,7 +26,7 @@ So the minimum RTT is 1.2833 ∗ 2 = 2.56666 seconds.
 sudo tc qdisc add dev lo root handle 1: netem delay 100ms loss 10% 
 ```
 <p align="center">
-  <img src="Assets/LFN_Ping_10.png" alt="set and ping" width="800"/>  
+  <img src="/Assets/images/LFN_Ping_10.png" alt="set and ping" width="800"/>  
 </p>
 
 ```
@@ -38,15 +38,15 @@ qdisc tbf 2: parent 1: rate 10000Mbit burst 1000000b lat 1.2ms
 ```
 
 <p align="center">
-  <img src="Assets/LFN_Settings_10.png" alt="confirm settings" width="800"/>  
+  <img src="/Assets/images/LFN_Settings_10.png" alt="confirm settings" width="800"/>  
 </p>
 
 <p align="center">
-  <img src="Assets/LFN_Server_10.png" alt="Server" width="800"/>  
+  <img src="/Assets/images/LFN_Server_10.png" alt="Server" width="800"/>  
 </p>
 
 <p align="center">
-  <img src="Assets/LFN_Client_10.png" alt="Client" width="800"/>  
+  <img src="/Assets/images/LFN_Client_10.png" alt="Client" width="800"/>  
 </p>
 
 #### Case 2
@@ -60,7 +60,7 @@ qdisc tbf 2: parent 1: rate 10000Mbit burst 1000000b lat 1.2ms
 sudo tc qdisc add dev lo root handle 1: netem delay 200ms loss 50% 
 ```
 <p align="center">
-  <img src="Assets/LFN_ping_50.png" alt="set and ping" width="800"/>  
+  <img src="/Assets/images/LFN_ping_50.png" alt="set and ping" width="800"/>  
 </p>
 
 ```
@@ -72,15 +72,15 @@ qdisc tbf 2: parent 1: rate 10000Mbit burst 1000000b lat 1.2ms
 ```
 
 <p align="center">
-  <img src="Assets/LFN_Settings_50.png" alt="confirm settings" width="800"/>  
+  <img src="/Assets/images/LFN_Settings_50.png" alt="confirm settings" width="800"/>  
 </p>
 
 <p align="center">
-  <img src="Assets/LFN_Server_50.png" alt="Server" width="800"/>  
+  <img src="/Assets/images/LFN_Server_50.png" alt="Server" width="800"/>  
 </p>
 
 <p align="center">
-  <img src="Assets/LFN_Client_50.png" alt="Client" width="800"/>  
+  <img src="/Assets/images/LFN_Client_50.png" alt="Client" width="800"/>  
 </p>
 
 ### Fast Ethernet 
@@ -101,15 +101,15 @@ qdisc netem 1: root refcnt 2 limit 1000 delay 100.0ms loss 10%
 qdisc tbf 2: parent 1: rate 100000Kbit burst 1000000b lat 120.0ms
 ```
 <p align="center">
-  <img src="Assets/FE_Settings_10.png" alt="confirm settings" width="800"/>  
+  <img src="/Assets/images/FE_Settings_10.png" alt="confirm settings" width="800"/>  
 </p>
 
 <p align="center">
-  <img src="Assets/FE_Server_10.png" alt="Server" width="800"/>  
+  <img src="/Assets/images/FE_Server_10.png" alt="Server" width="800"/>  
 </p>
 
 <p align="center">
-  <img src="Assets/FE_Client_10.png" alt="Client" width="800"/>  
+  <img src="/Assets/images/FE_Client_10.png" alt="Client" width="800"/>  
 </p>
 
 #### Case 2
@@ -130,15 +130,7 @@ qdisc tbf 2: parent 1: rate 100000Kbit burst 1000000b lat 120.0ms
 ```
 
 <p align="center">
-  <img src="Assets/FE_Settings_50.png" alt="confirm settings" width="800"/>  
-</p>
-
-<p align="center">
-  <img src="Assets/FE_Server_50.png" alt="Server" width="800"/>  
-</p>
-
-<p align="center">
-  <img src="Assets/FE_Client_50.png" alt="Client" width="800"/>  
+  <img src="/Assets/images/FE_Settings_50.png" alt="confirm settings" width="800"/>  
 </p>
 
 ## Reference
