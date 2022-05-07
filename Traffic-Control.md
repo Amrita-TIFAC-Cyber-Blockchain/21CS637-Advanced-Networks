@@ -133,14 +133,6 @@ qdisc tbf 2: parent 1: rate 100000Kbit burst 1000000b lat 120.0ms
   <img src="Assets/FE_Settings_50.png" alt="confirm settings" width="800"/>  
 </p>
 
-<p align="center">
-  <img src="Assets/FE_Server_50.png" alt="Server" width="800"/>  
-</p>
-
-<p align="center">
-  <img src="Assets/FE_Client_50.png" alt="Client" width="800"/>  
-</p>
-
 ## Reference
 - [Linux Network Traffic Control](https://man7.org/linux/man-pages/man8/tc.8.html)
 - [NetBeez Blog. How to use the Linux Traffic Control](https://netbeez.net/blog/how-to-use-the-linux-traffic-control/)
