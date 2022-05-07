@@ -52,23 +52,23 @@ DSCP value is **101110** (46)
 #### Class Map
 
 <p align="center">
-  <img src="/Assets/images/Class-map-EP-set.png" alt="Class Map" width="550"/>
+  <img src="../Assets/images/Class-map-EP-set.png" alt="Class Map" width="550"/>
 </p>
 
 #### Policy Map
 
 <p align="center">
-  <img src="/Assets/images/policy-map-SETDSCP.png" alt="Policy Map" width="500"/>
+  <img src="../Assets/images/policy-map-SETDSCP.png" alt="Policy Map" width="500"/>
 </p>
 
 ##### Error 
 
 <p align="center">
-  <img src="/Assets/images/Error_on_VOIP.png" alt="Error" width="700"/>
+  <img src="../Assets/images/Error_on_VOIP.png" alt="Error" width="700"/>
 </p>
 
 ##### Set Config in Router 
 
 <p align="center">
-  <img src="/Assets/images/QoS_Config.gif" alt="Show Config" width="1400"/>
+  <img src="../Assets/images/QoS_Config.gif" alt="Show Config" width="1400"/>
 </p>
