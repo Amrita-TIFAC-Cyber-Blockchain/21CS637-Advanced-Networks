@@ -42,18 +42,18 @@ curl -X POST -d  '{"nw_src": "10.0.0.3/32", "nw_dst": "10.0.0.2/32", "nw_proto":
 ### UDP Rule Set in Switch
 
 <p align="center">
-  <img src="/Assets/images/UDP_Rule_Set_In_Switch.png" alt="Firewall_Rule" width="1800"/>
+  <img src="../Assets/images/UDP_Rule_Set_In_Switch.png" alt="Firewall_Rule" width="1800"/>
 </p>
 
 ### Messages blocked by the SDN Controller
 
 <p align="center">
-  <img src="/Assets/images/Firewall_Rule_Test.png" alt="Firewall_Rule_Test" width="800"/>
+  <img src="../Assets/images/Firewall_Rule_Test.png" alt="Firewall_Rule_Test" width="800"/>
 </p>
 
 
 <p align="center">
-  <img src="/Assets/images/Blocked_by_the_controller.png" alt="Firewall_Rule" width="1800"/>
+  <img src="../Assets/images/Blocked_by_the_controller.png" alt="Firewall_Rule" width="1800"/>
 </p>
 
 ## Reference
