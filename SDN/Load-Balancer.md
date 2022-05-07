@@ -3,7 +3,7 @@
 ## Multipath Topology (Image)
 
 <p align="center">
-  <img src="../Assets/External/LoadBalancer_Topology.png" alt="Topo" width="500"></img>
+  <img src="../Assets/External/LoadBalancer_Topology.png" alt="Topo" width="500"/>
 </p>
 
 ## Mininet Topology (Code)
