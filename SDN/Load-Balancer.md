@@ -3,7 +3,7 @@
 ## Multipath Topology (Image)
 
 <p align="center">
-  <img src="/Assets/External/LoadBalancer_Topology.png" alt="Topo" width="500"></img>
+  <img src="../Assets/External/LoadBalancer_Topology.png" alt="Topo" width="500"></img>
 </p>
 
 ## Mininet Topology (Code)
@@ -118,7 +118,7 @@ class loadBalancer(app_manager.RyuApp):
 ### Demo
 
 <p align="center">
-	<img src="/Assets/images/LoadBalancer_Simple.png" alt="Load Balancer Demo" width="1000"/>
+	<img src="../Assets/images/LoadBalancer_Simple.png" alt="Load Balancer Demo" width="1000"/>
 </p>	
 
 ## RYU SDN Load Balancer with Learning (Code)
