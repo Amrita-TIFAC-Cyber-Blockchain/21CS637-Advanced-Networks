@@ -6,33 +6,33 @@ This repository contains the materials, source codes, packet tracer files, wires
 ## Lab Experiments
 ### Practices
 
-- [Client-Server using VMs](Client-Server.md)
+- [Client-Server using VMs](Client_Server/Client-Server.md)
 
-- [SDN Topology using Mininet](SDN-Topology.md) 
+- [SDN Topology using Mininet](SDN/SDN-Topology.md) 
   - Custom Topology
   - Custom Topology with 10% loss and 10 ms delay rate
   - Data Center Topology with four racks, each with four hosts and a single ToR switch
   - Configurable Dynamic Number of Hosts per Rack
 
 - RYU SDN 
-  - [RYU SDN L2 Switch - Self Learning](SDN-L2.md)
+  - [RYU SDN L2 Switch - Self Learning](SDN/SDN-L2.md)
 
 ### Assignments for Evaluation
 
-- [Go-Back-N](GBN.md)
+- [Go-Back-N](Client_Server/GBN.md)
 
-- [Satellite Communication](Traffic-Control.md)
+- [Satellite Communication](Others/Traffic-Control.md)
 
-- [Throughput Analysis using Wireshark](Throughput-Analysis.md)
+- [Throughput Analysis using Wireshark](Others/Throughput-Analysis.md)
 
 - RYU SDN 
-  - [Framework Understanding Documentation](Docs/RYU_SDN_Understanding_Document.pdf)
-  - [Multipath Load Balancer](Load-Balancer.md)
-  - [Firewall to Block UDP Messages](SDN-Firewall.md)
+  - [Framework Understanding Documentation](Assets/Docs/RYU_SDN_Understanding_Document.pdf)
+  - [Multipath Load Balancer](SDN/Load-Balancer.md)
+  - [Firewall to Block UDP Messages](SDN/SDN-Firewall.md)
 
-- [DiffServ QoS using Packet Tracer](DiffServ-QoS.md)
+- [DiffServ QoS using Packet Tracer](Others/DiffServ-QoS.md)
 
-- [SLA in Router using Packet Tracer and GNS3](SLA-Router.md)
+- [SLA in Router using Packet Tracer and GNS3](Others/SLA-Router.md)
 
 ## Seminar/Usecase Presentation
 
